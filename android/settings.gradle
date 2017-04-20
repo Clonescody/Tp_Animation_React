@@ -1,0 +1,3 @@
+rootProject.name = 'TpAnimation4_4_2'
+
+include ':app'
